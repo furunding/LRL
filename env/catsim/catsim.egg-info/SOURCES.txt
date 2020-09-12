@@ -1,0 +1,7 @@
+README.md
+setup.py
+catsim.egg-info/PKG-INFO
+catsim.egg-info/SOURCES.txt
+catsim.egg-info/dependency_links.txt
+catsim.egg-info/requires.txt
+catsim.egg-info/top_level.txt

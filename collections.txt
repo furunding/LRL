@@ -1,0 +1,10 @@
+优达项目 https://github.com/udacity/deep-reinforcement-learning
+introRL https://github.com/zhoubolei/introRL
+Spinning UP https://spinningup.openai.com/en/latest/
+多智能体强化学习 http://wnzhang.net/tutorials/marl2018/index.html || https://zhuanlan.zhihu.com/c_1061939147282915328
+AlphaZero https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188 https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
+星际争霸AI https://github.com/ClausewitzCPU0/SC2AI 
+星际多智能体环境  https://github.com/oxwhirl/smac || https://github.com/LovelyBuggies/Python_MADDPG_SC2LE
+cs294课程 http://rail.eecs.berkeley.edu/deeprlcourse/
+cs294讲义  https://zhuanlan.zhihu.com/c_125238795 
+
